@@ -1,4 +1,4 @@
 # Amazonclone
-This is a Amazon Clone website using HTML5 and CSS3. 
+This is an Amazon Clone website developed using HTML5 and CSS3. 
 <br>
 Author-Hiten S
